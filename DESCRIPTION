@@ -1,8 +1,8 @@
 Package: nucleR
 Type: Package
 Title: Nucleosome positioning package for R
-Version: 2.27.0
-Date: 2020-11-02
+Version: 2.27.1
+Date: 2021-11-21
 Author: Oscar Flores, Ricard Illa
 Maintainer: Alba Sala <alba.sala@irbbarcelona.org>
 Description: Nucleosome positioning for Tiling Arrays and NGS experiments.
