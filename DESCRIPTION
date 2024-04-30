@@ -1,7 +1,7 @@
 Package: nucleR
 Type: Package
 Title: Nucleosome positioning package for R
-Version: 2.36.0
+Version: 2.37.0
 Date: 2021-11-21
 Author: Oscar Flores, Ricard Illa
 Maintainer: Alba Sala <alba.sala@irbbarcelona.org>
