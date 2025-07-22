@@ -213,7 +213,7 @@ setMethod(
 #' @rdname processReads
 #' @importFrom GenomicRanges GRanges
 #' @importMethodsFrom BiocGenerics end
-#' @importMethodsFrom GenomeInfoDb seqnames
+#' @importMethodsFrom Seqinfo seqnames
 #' @importMethodsFrom S4Vectors space
 setMethod(
     "processReads",

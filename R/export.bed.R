@@ -109,7 +109,7 @@ setMethod(
 )
 
 #' @rdname export.bed
-#' @importMethodsFrom GenomeInfoDb seqnames
+#' @importMethodsFrom Seqinfo seqnames
 setMethod(
     "export.bed",
     signature(ranges="GRanges"),

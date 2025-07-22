@@ -107,7 +107,7 @@ readBAM <- .loadFiles(.loadSingleBam, .loadPairedBam)
 #' Load a paired-end-end BAM
 #'
 #' @importMethodsFrom Rsamtools scanBam ScanBamParam
-#' @importMethodsFrom GenomeInfoDb sortSeqlevels
+#' @importMethodsFrom Seqinfo sortSeqlevels
 #' @importMethodsFrom BiocGenerics sort
 #'
 .loadPairedBam <- function (file)

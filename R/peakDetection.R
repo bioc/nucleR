@@ -71,7 +71,7 @@ setGeneric(
 
 #' @rdname peakDetection
 #' @importFrom IRanges IRangesList
-#' @importMethodsFrom GenomeInfoDb "seqlevels<-"
+#' @importMethodsFrom Seqinfo "seqlevels<-"
 setMethod(
     "peakDetection",
     signature(data="list"),

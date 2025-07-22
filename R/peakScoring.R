@@ -107,7 +107,7 @@ setMethod(
 )
 
 #' @rdname peakScoring
-#' @importMethodsFrom GenomeInfoDb "seqlevels<-"
+#' @importMethodsFrom Seqinfo "seqlevels<-"
 setMethod(
     "peakScoring",
     signature(peaks="IRangesList"),

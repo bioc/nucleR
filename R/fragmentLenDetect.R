@@ -170,7 +170,7 @@ setMethod(
 #' @rdname fragmentLenDetect
 #' @importFrom stats runif cor
 #' @importMethodsFrom BiocGenerics strand width
-#' @importMethodsFrom GenomeInfoDb seqnames
+#' @importMethodsFrom Seqinfo seqnames
 setMethod(
     "fragmentLenDetect",
     signature(reads="GRanges"),
